@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: alist
+    name: xiaomitn
     env: docker
     repo: https://github.com/nvthang2303/render.git # optional
     region: oregon # optional (defaults to oregon)
